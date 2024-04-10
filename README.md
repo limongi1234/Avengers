@@ -4,7 +4,7 @@ Desenvolvimento de uma API utilizando SpringBoot + Kotlin com o intuito de cadas
 Tecnologias / Frameworks / IDE
 
     Intellij
-    SpringBoot 3.2,4
+    SpringBoot 3.2.4
     Maven
     Kotlin
     SpringData JPA
